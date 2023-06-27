@@ -1,1 +1,1 @@
-# hardware-store
+# Hardware Store using Python
